@@ -1,16 +1,15 @@
-## Hi there 👋
+I’m a junior full-stack software developer 💻 with experience in building Web Applications using Angular 🖥️, React ⚛️ for the frontend. For the backend, I work with Spring Boot 🌿 and NestJS 🔧, focusing on creating robust and scalable solutions. I’ve worked with databases like PostgreSQL 🗄️, Oracle 💾, MongoDB 🌐, and Firebase 🔥. Additionally, I develop mobile apps with React Native and Flutter 📱.
 
-<!--
-**kevinjdk/kevinjdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👾 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjdk&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjdk&layout=compact&theme=radical)
+
+---
+
+## 🔥 Featured Projects
+
+Aquí va el contenido de tus proyectos destacados.
